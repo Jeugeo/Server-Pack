@@ -1,0 +1,49 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Gurthang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "renamed:item/gurthang"
+        }
+      },
+      {
+        "when": "Elucidator",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:selected",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "renamed:item/elucidator"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "renamed:item/elucidator_sheated"
+          }
+        }
+      },
+      {
+        "when": "Master Sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "renamed:item/master_sword"
+        }
+      },
+      {
+        "when": "Excalibur",
+        "model": {
+          "type": "minecraft:model",
+          "model": "renamed:item/excalibur"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_sword"
+    }
+  }
+}

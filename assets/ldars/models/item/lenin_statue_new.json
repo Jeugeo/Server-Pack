@@ -1,0 +1,6 @@
+{
+    "parent": "ldars:item/lenin_statue_new_model",
+	"textures": {
+		"0": "ldars:item/lenin_statue_new"
+	}
+}

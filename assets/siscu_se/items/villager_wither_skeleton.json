@@ -1,0 +1,7 @@
+{
+	"model": {
+	  "type": "model",
+	  "model": "siscu_se:item/villager_wither_skeleton"
+	},
+	"oversized_in_gui": true
+}

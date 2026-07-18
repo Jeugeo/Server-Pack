@@ -1,0 +1,6 @@
+{
+  "parent": "renamed:item/3f_model",
+        "textures": {
+          "layer0": "renamed:item/3f"
+        }
+}

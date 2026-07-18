@@ -1,0 +1,6 @@
+{
+    "parent": "ldars:item/megafon_model",
+	"textures": {
+		"0": "ldars:item/megafon"
+	}
+}

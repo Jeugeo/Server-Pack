@@ -1,0 +1,24 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "siscu_se:copper"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "siscu_se:copper"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "siscu_se:copper"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "siscu_se:copper"
+      }
+    ]
+  }
+}

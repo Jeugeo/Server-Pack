@@ -1,0 +1,6 @@
+{
+  "parent": "item/blue_shark",
+  "textures": {
+    "0": "item/pride_sharks/bi"
+  }
+}

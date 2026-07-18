@@ -1,0 +1,6 @@
+{
+    "parent": "ldars:item/mate/bottle",
+	"textures": {
+		"0": "ldars:item/mate/mate"
+	}
+}

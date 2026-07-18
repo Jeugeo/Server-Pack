@@ -1,0 +1,6 @@
+{
+  "parent": "renamed:item/elucidator_sheated_model",
+        "textures": {
+          "layer0": "renamed:item/elucidator_sheated"
+        }
+}

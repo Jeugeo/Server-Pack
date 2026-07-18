@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/pufferfish",
+  "textures": {
+    "layer0": "siscu_se:item/pufferfish"
+  }
+}

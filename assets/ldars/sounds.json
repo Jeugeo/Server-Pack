@@ -1,0 +1,73 @@
+{
+  "gruenen": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/gruenen",
+        "stream": true
+      }
+    ]
+  },
+
+  "dronen": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/dronen",
+        "stream": true
+      }
+    ]
+  },
+
+  "du_arschloch": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/du_arschloch",
+        "stream": true
+      }
+    ]
+  },
+
+  "they_are_taking_the_hobbits": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/they_are_taking_the_hobbits",
+        "stream": true
+      }
+    ]
+  },
+
+  "werd_vegan": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/werd_vegan",
+        "stream": true
+      }
+    ]
+  },
+
+  "if_i_take_one_more_step": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/if_i_take_one_more_step",
+        "stream": true
+      }
+    ]
+  },
+
+  "this_is_sparta": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/this_is_sparta",
+        "stream": true
+      }
+    ]
+  },
+
+  "lego_hey": {
+    "sounds": [
+      {
+        "name": "ldars:megafon/lego_hey",
+        "stream": true
+      }
+    ]
+  }
+}

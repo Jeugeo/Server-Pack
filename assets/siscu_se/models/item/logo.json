@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "siscu_se:item/logo"
+	},
+	"display": {
+		"gui": {
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}

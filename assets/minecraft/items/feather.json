@@ -1,0 +1,201 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "cases": [
+            {
+                "when": "blue_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/blue_shark"
+                }
+            },
+            {
+                "when": "ace_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/ace_shark"
+                }
+            },
+            {
+                "when": "agender_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/agender_shark"
+                }
+            },
+            {
+                "when": "aro_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/aro_shark"
+                }
+            },
+            {
+                "when": "aroace_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/aroace_shark"
+                }
+            },
+            {
+                "when": "bi_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/bi_shark"
+                }
+            },
+            {
+                "when": "blue_whale",
+                "model": {
+                    "type": "model",
+                    "model": "item/blue_whale"
+                }
+            },
+            {
+                "when": "bread_pillow",
+                "model": {
+                    "type": "model",
+                    "model": "item/bread_pillow"
+                }
+            },
+            {
+                "when": "brown_bear",
+                "model": {
+                    "type": "model",
+                    "model": "item/brown_bear"
+                }
+            },
+            {
+                "when": "demi_r_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/demi_r_shark"
+                }
+            },
+            {
+                "when": "demi_s_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/demi_s_shark"
+                }
+            },
+            {
+                "when": "demiboy_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/demiboy_shark"
+                }
+            },
+            {
+                "when": "demigirl_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/demigirl_shark"
+                }
+            },
+            {
+                "when": "enby_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/enby_shark"
+                }
+            },
+            {
+                "when": "gay_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/gay_shark"
+                }
+            },
+            {
+                "when": "genderfluid_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/genderfluid_shark"
+                }
+            },
+            {
+                "when": "genderqueer_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/genderqueer_shark"
+                }
+            },
+            {
+                "when": "gray_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/gray_shark"
+                }
+            },
+            {
+                "when": "gray_r_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/gray_r_shark"
+                }
+            },
+            {
+                "when": "gray_s_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/gray_s_shark"
+                }
+            },
+            {
+                "when": "grayrose_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/grayrose_shark"
+                }
+            },
+            {
+                "when": "intersex_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/intersex_shark"
+                }
+            },
+            {
+                "when": "lesbian_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/lesbian_shark"
+                }
+            },
+            {
+                "when": "pan_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/pan_shark"
+                }
+            },
+            {
+                "when": "poly_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/poly_shark"
+                }
+            },
+            {
+                "when": "pride_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/pride_shark"
+                }
+            },
+            {
+                "when": "trans_shark",
+                "model": {
+                    "type": "model",
+                    "model": "item/trans_shark"
+                }
+            }
+        ]
+    }
+}

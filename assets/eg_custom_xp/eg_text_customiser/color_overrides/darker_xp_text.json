@@ -1,0 +1,10 @@
+{
+  "when": {
+    "color": "#407F10",
+    "font": "minecraft:default"
+  },
+  "replace_with": {
+    "color": "#930909",
+    "shadow_color": "#1e0202"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "renamed:item/big_spoon_model",
+        "textures": {
+          "layer0": "renamed:item/big_spoon"
+        }
+}

@@ -1,0 +1,12 @@
+{
+    "toy.interact": {
+      "sounds": [
+        "blahaj:toy_use1",
+        "blahaj:toy_use2",
+        "blahaj:toy_use3",
+        "blahaj:toy_use4",
+        "blahaj:toy_use5"
+      ],
+      "subtitle": "subtitles.blahaj.toy.interact"
+    }
+}

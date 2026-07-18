@@ -1,0 +1,236 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "infinite_music_discs:item/music_disc_inthearmynowstatusquo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "infinite_music_discs:item/music_disc_aintthatakickintheheaddeanmartin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "infinite_music_discs:item/music_disc_aufaufzumkampfhanneswader"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "infinite_music_discs:item/music_disc_auferstandenausruinenerichweinertensemble"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "infinite_music_discs:item/music_disc_backtotherootsfreshdumbledore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "infinite_music_discs:item/music_disc_bellaciaohanneswader"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "infinite_music_discs:item/music_disc_bigironmartyrobbins"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "infinite_music_discs:item/music_disc_bittibitti"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "infinite_music_discs:item/music_disc_bobbywagendonerbudenali"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "infinite_music_discs:item/music_disc_bringmethehorizoncanyoufeelmyheart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "infinite_music_discs:item/music_disc_derheimlicheaufmarschernstbusch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "infinite_music_discs:item/music_disc_deutschlandvolkbierdekarldent"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "infinite_music_discs:item/music_disc_dieinternationalehanneswader"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "infinite_music_discs:item/music_disc_donundkimbromancesong"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "infinite_music_discs:item/music_disc_echtstilfreshdumbledore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "infinite_music_discs:item/music_disc_fdjifawartburg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "infinite_music_discs:item/music_disc_followingstanleythestanleyparable"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "infinite_music_discs:item/music_disc_furimmerfruhlingsoffie"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "infinite_music_discs:item/music_disc_gesateuterekordz"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "infinite_music_discs:item/music_disc_getoutyeblackandtansderekwarfield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "infinite_music_discs:item/music_disc_helmuberherzderwinzigkleineschwaemmel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "infinite_music_discs:item/music_disc_ichschlafeniewiederfreshdumbledore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "infinite_music_discs:item/music_disc_invisibleduranduran"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "infinite_music_discs:item/music_disc_jalavaliedschmetterlinge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "infinite_music_discs:item/music_disc_justthetwoofusgreenalien"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "infinite_music_discs:item/music_disc_losloslosselphius"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "infinite_music_discs:item/music_disc_pianosonatanoonefourbeethoven"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "infinite_music_discs:item/music_disc_redarmyisstrongestredarmychoir"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "infinite_music_discs:item/music_disc_redsunintheskymaozedong"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "infinite_music_discs:item/music_disc_redsunintheskyvillager"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "infinite_music_discs:item/music_disc_scatmanscatmanjohn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "infinite_music_discs:item/music_disc_singwithbrotherhao"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "infinite_music_discs:item/music_disc_sovietmarchredalertthree"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "infinite_music_discs:item/music_disc_sovietnationalanthemredarmychoir"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "infinite_music_discs:item/music_disc_thehousebuildingsongdavidferguson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "infinite_music_discs:item/music_disc_villagernewsthemesongvillager"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "infinite_music_discs:item/music_disc_yotonyomarttisuosalo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "infinite_music_discs:item/music_disc_sviashchennaiavoinaredarmychoir"
+        }
+    ]
+}

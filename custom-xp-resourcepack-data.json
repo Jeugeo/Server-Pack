@@ -1,0 +1,49 @@
+{
+    "formatVersion": 2,
+    "customName": "Custom XP",
+    "renderTypes": {
+        "xp-orb": {
+            "anim-speed": 1900,
+            "colour-period": 12,
+            "reverse-animation-direction": false,
+            "smooth-mix": true,
+            "random-offset": true,
+            "emissive": false,
+            "animation-mode": {
+                "value": "3",
+                "id": "colour-cycle-sin"
+            },
+            "colours": [
+                "#2c0303ff",
+                "#d30e0eff",
+                "#8e0808ff"
+            ]
+        },
+        "xp-bar": {
+            "match-xp-orb-colours": false,
+            "anim-speed": 1000,
+            "colour-period": 16,
+            "reverse-animation-direction": true,
+            "smooth-mix": true,
+            "main-colour": "#a4f55dff",
+            "second-colour": "#496c29ff",
+            "anim-direction": {
+                "value": "4",
+                "id": "from-center"
+            },
+            "colours": [
+                "#ffff007e",
+                "#00fd337e"
+            ]
+        },
+        "xp-text": {
+            "main-text-colour": "#d30e0eff",
+            "main-text-shadow-colour": "#2c0303ff"
+        },
+        "xp-bottle": {
+            "main-bottle-colour": "#27753bff",
+            "second-bottle-colour": "#f5ff8fff",
+            "border-colour": "#846105ff"
+        }
+    }
+}

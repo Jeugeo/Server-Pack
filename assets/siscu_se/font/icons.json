@@ -1,0 +1,139 @@
+{
+	"providers":[
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/lush_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0101"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/amethyst_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0102"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/dripstone_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0103"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/infected_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0104"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/stray_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0105"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/citizen_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0106"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/bogged_zombie.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0107"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/villager_skeleton.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0201"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/piglin_skeleton.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0202"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/husk_skeleton.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0203"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/villager_wither_skeleton.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0301"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/piglin_wither_skeleton.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0302"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/spawn_eggs/fire_spring.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u0401"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "siscu_se:item/config.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u1000"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:mob_effect/phage.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": [
+				"\u2000"
+			]
+		}
+	]
+}

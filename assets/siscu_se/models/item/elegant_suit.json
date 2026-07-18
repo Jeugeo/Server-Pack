@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_boots",
+  "textures": {
+    "layer0": "siscu_se:item/elegant_suit",
+    "layer1": "siscu_se:item/elegant_suit_overlay"
+  }
+}

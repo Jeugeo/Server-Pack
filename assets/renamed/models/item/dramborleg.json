@@ -1,0 +1,6 @@
+{
+  "parent": "renamed:item/dramborleg_model",
+        "textures": {
+          "layer0": "renamed:item/dramborleg"
+        }
+}

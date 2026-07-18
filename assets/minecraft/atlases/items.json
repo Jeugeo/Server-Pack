@@ -1,0 +1,77 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "entity/copper_trident"
+        },
+        {
+            "type": "single",
+            "resource": "mob_effect/poison"
+        },
+        {
+            "type": "single",
+            "resource": "mob_effect/phage"
+        },
+        {
+            "type": "single",
+            "resource": "entity/horse/horse_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "entity/horse/horse_zombie"
+        },
+        {
+            "type": "single",
+            "resource": "entity/wandering_trader"
+        },
+        {
+            "type": "single",
+            "resource": "entity/witch"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/skeleton",
+            "prefix": "entity/skeleton/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/illager",
+            "prefix": "entity/illager/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/piglin",
+            "prefix": "entity/piglin/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/villager",
+            "prefix": "entity/villager/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/hoglin",
+            "prefix": "entity/hoglin/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/equipment",
+            "prefix": "entity/equipment/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/wither",
+            "prefix": "entity/wither/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/zombie_villager",
+            "prefix": "entity/zombie_villager/"
+        }
+    ]
+}

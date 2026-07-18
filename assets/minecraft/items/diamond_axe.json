@@ -1,0 +1,28 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Dramborleg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "renamed:item/dramborleg"
+        }
+      },
+      {
+        "when": "3F",
+        "model": {
+          "type": "minecraft:model",
+          "model": "renamed:item/3f"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_axe"
+    }
+  },
+  "oversized_in_gui": true
+}
