@@ -4,7 +4,13 @@
     "min_format": 34,
     "max_format": 75,
 		"supported_formats": {"min_inclusive": 34, "max_inclusive": 75},
-        "description": "Server Pack 0.7.4"
+        "description": [
+      {"text": "Minecraft:","color": "#ae0000"},
+      {"text": " H&S","color": "#e18916","bold": true},
+      {"text": "\n(2026, v0.7.5, ","color": "dark_gray"},
+      {"player": "JT_Plays","color": "white","hover_event": {"action": "show_text","value": "Jeugeo"}},
+      {"text": ")","color": "dark_gray"}
+	]
     },
 	"overlays": {
 		"entries": [
